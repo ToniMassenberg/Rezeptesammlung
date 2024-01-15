@@ -1,0 +1,85 @@
+{
+	"recipes": {
+		"recipe": [
+			{
+				"title": "Ruehrkuchen",
+				"zutat": [
+					"500 g Mehl",
+					"500 g Zucker",
+					"500 g Butter",
+					"5 Eier"
+				],
+				"howto": "Zucker und Butter schaumig schlagen.\n        Eier trennen, Eigelb und Mehl mit Zucker und Butter unterrühren.\n        Eiweiß steif schlagen, vorsichtig unterheben.\n        In eine gebutterte Backform füllen.\n        45 Minuten bei 180°C backen.",
+				"notes": "Mit und ohne Gluten machbar!"
+			},
+			{
+				"title": "Bisquitteig",
+				"zutat": [
+					"200 g Mehl",
+					"200 g Zucker",
+					"6 Eier",
+					"1 pck Backpulver",
+					"Vanillezucker, Zitronenschale"
+				],
+				"howto": "Die Eier mit dem Zucker aufschlagen, bis eine helle, schaumige Creme entsteht und der Zucker weitgehend aufgelöst ist.\n        Vorsichtig Mehl und Backpulver hinzugeben (vorzugsweise sieben) und das Ganze gut verrühren.\n        Den Teig auf ein mit Backpapier belegtes Blech oder in eine Form streichen, bei 200°C ca. 10 Minuten backen.",
+				"notes": "FÜR BISQUITROLLE ein leicht feuchtes Küchenhandtuch auf den Teig legen und mit Hilfe des Backpapiers aufrollen. \n        Nach dem Abkühlen wieder flach hinlegen, Füllung (z.B. Marmelade, Kompott oder Sahne) darauf verteilen und wieder aufrollen.\n        FÜR OBSTKUCHEN das Obst in mundgerechte Stücke vorbereiten, auf dem Boden arrangieren und mit Tortenguss festkleben."
+			},
+			{
+				"title": "Muerbeteig",
+				"zutat": [
+					"200 g Mehl",
+					"100 g Zucker",
+					"125 g Butter",
+					"1 Ei",
+					"1 Vanilleschote",
+					"100 g gemahlene Mandeln"
+				],
+				"howto": "Mehl, Mandeln und Salz in eine Schüssel geben und alle Zutaten gut verrühren.\n        In der Mitte eine Mulde formen, den Zucker, das Ei und das ausgekratzte Mark der Vanilleschote hineingeben.\n        Butter in kleine Stücke schneiden und außen herum verteilen.\n        Den Teig von außen nach innen kneten (ist einfacher, wenn die Hände mit Mehl vor den nassen Zutaten geschützt sind).\n        Wenn der Teig sich zu einer gleichmäßigen (wenn auch klebrigen) Kugel formen lässt, die Kugel in Frischhaltefolie einwickeln\n        und gut eine Stunde im Kühlschrank ruhen lassen.\n        Die Arbeitsfläche bemehlen, den Teig darauf ausrollen und beliebige Formen ausstechen (Details möglich).\n        Dann die Kekse mit ca. 2 cm Abstand auf ein bebackpapiertes Backblech legen (ca. 3 Bleche insgesamt)und für 8 Minuten bei 175°C backen.",
+				"notes": "Die Ausstechplätzchen, die nicht verlaufen! Zusätzlich zur/statt der Vanilleschote sind auch Vanillezucker, Zimt, Lebkuchengewürz, Ingwer ect. empfehlenswert!",
+				"__text": ">"
+			},
+			{
+				"title": "Hefeteig",
+				"zutat": [
+					"260 g Mehl",
+					"50 g Schmand",
+					"1 pck Trockenhefe",
+					"1 EL Öl",
+					"1 TL Zucker",
+					"200 ml lauwarmes Wasser"
+				],
+				"howto": "Hefe und Zucker in der Hälfte des Wassers auflösen.\n          Hefewasser, Mehl, Schmand, Öl und alle gewünschten Gewürze zu einem glatten Teig verkneten. Bei Bedarf mehr Wasser hinzugeben.\n          In die benötigte Form bringen und bei ca. 200°C backen, bis es golden ist (Brötchen ca. 25 Minuten).",
+				"notes": ""
+			},
+			{
+				"title": "Brownies",
+				"zutat": [
+					"140 g dunkle Schokolade",
+					"115 g Butter",
+					"2 Eier",
+					"120 g brauner Zucker",
+					"60 g gemahlene Nüsse",
+					"30 g Mehl",
+					"0.5 Tl Salz",
+					"0.5 TL Backpulver",
+					"1 pck Vanillezucker"
+				],
+				"howto": "Schokolade und Butter langsam schmelzen, abkühlen lassen.\n        Eier mit Salz schaumig schlagen, Zucker langsam unterrühren.\n        Schokoladengemisch zu Eigemisch geben, aufschlagen.\n        Trockene Zutaten untereinander verrühren, dann den nassen Zutaten hinzugeben und verrühren. Zusätzliche Zutaten untermischen.\n        In eine gebackpapierte Brownieform oder ca. 10 Muffinförmchen geben und bei 180°C 25 Minuten (20 für Muffins) backen.",
+				"notes": "Den zusätzlichen Zutaten sind keine Grenzen gesetzt: Chocolate Chips, Marshmallows, Kirschen aus dem Glas, Smarties, Kaffeepulver, Vanille, ect."
+			},
+			{
+				"title": "Vollkornbrot",
+				"zutat": [
+					"470 g Wasser",
+					"20 g Öl",
+					"620 g Mehl",
+					"1 TL Salz",
+					"1 EL Honig",
+					"5 g Frischhefe"
+				],
+				"howto": "Alle Zutaten von Hand in einer Schüssel vermischen, bis ein homogener, mittelfester Teig entstanden ist und alle Zutaten restlos \n        eingearbeitet sind (Teigtemperatur ca. 26°C). Dann zudecken. In den Kühlschrank stellen, nach 30 und nach 60 Minuten dehnen und falten.\n        10 bis 12 Stunden im Kühlschrank ruhen lassen.\n        \n        Wenn sich der Teig um mindestens die Hälfte vergrößert hat, den Teig kneten und in Mehl wälzen. \n        Daraufhin mit der glatten Seite nach ohben in eine gefettete, beschichtete oder mit Backpapier ausgelegte Kastenform (ca. 22 x 10 x 9 cm) geben. \n        Bedeckt mit einer Klarsichtfolie oder Schüssel 9 bis 12 Stunden im Kühlschrank reifen lassen. \n        \n        Danach den um gut die Hälfte seines Ausgangsvolumens vergrößerten Teigling der Länge nach ca. 1 cm tief mittig einschneiden. \n        Bei 5 Minuten bei 250°C backen, dann die Temperatur auf 200°C senken und 50 Minuten weiterbacken.\n        \n        Das Brot nach dem Backen aus der Form nehmen und auf die Seite gekippt auf einem Gitterrost auskühlen lassen, damit sich die Seitenflächen \n        nicht so stark nach innen wölben.",
+				"notes": ""
+			}
+		]
+	}
+}
